@@ -8,9 +8,9 @@ Search for Food [x]
 Search [x]
 
 Explore Our Foods [x]
-Green Leafy Dish
-Fish Salad Dish
-Classic Burger
+Green Leafy Dish [x]
+Fish Salad Dish [x]
+Classic Burger [x]
 
 Green Leafy Dish
 12.54 $
