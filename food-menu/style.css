@@ -81,3 +81,54 @@ button {
     border-style: none;
     cursor: pointer;
 }
+section {
+    
+    height: 500px;
+}
+h2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.dish {
+    width: 1000px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    justify-items: right;
+    padding-left: 200px;
+}
+.dish-1 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-image: url('/food-menu/img/food_1.jpg');
+}
+.dish-2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-image: url('/food-menu/img/food_2.jpg');
+}
+.dish-3 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-image: url('/food-menu/img/food_3.jpg');
+}
+.item {
+    color: white;
+    background-color: #f25fa2;
+    width: 200px;
+    height: 25px;
+    margin-left: 50px;
+    margin-top: 250px;
+    border-radius: 5px;
+}
+p {
+    font-size: large;
+    text-decoration: solid;
+    font-weight: bold;
+    padding-left: 25px;
+}
+
