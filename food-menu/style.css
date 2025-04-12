@@ -7,7 +7,7 @@
 }
 
 body {
-    width: 1200px;
+    width: 1400px;
 }
 
 
@@ -24,22 +24,23 @@ img {
 
 .navbar {
     display: flex;
-    
+    padding: 5px 0 5px 100px;
 }
 
 .links {
     display: flex;
     align-items: center;
-    padding-left: 300px;
+    padding-left: 350px;
 }
 h1 {
     text-transform: uppercase;
     padding-left: 20px;
+    
 }
 a {
     text-decoration: none;
     color: #df0f6e;
-    
+    font-weight: 250;
     
 }
 ul {
@@ -49,4 +50,35 @@ ul {
 
 li {
     padding-left: 40px;
+}
+main {
+    width: 1200px;
+    height: 200px;
+    background-image: url('/food-menu/img/search_area_bg.jpg');
+    margin-left: 40px;
+}
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    width: 400px;
+    height: 25px;
+    color: darkgray;
+    border-radius: 5px;
+    border-style: none;
+}
+button {
+    width: 100px;
+    height: 28px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.btn {
+    background-color: #f25fa2;
+    padding: 5px 10px;
+    color: white;
+    border-style: none;
+    cursor: pointer;
 }
