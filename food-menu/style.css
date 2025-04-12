@@ -1,3 +1,52 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+:root {
+    --color-red-violet: #df0f6e;
+    font-family: Montserrat;
+}
+
+body {
+    width: 1200px;
+}
+
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar {
+    display: flex;
+    
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    padding-left: 300px;
+}
+h1 {
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+a {
+    text-decoration: none;
+    color: #df0f6e;
+    
+    
+}
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding-left: 40px;
+}

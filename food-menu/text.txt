@@ -1,8 +1,8 @@
-Food Menu
-Home
-About
-Foods
-Contacts
+Food Menu [x]
+Home [x]
+About [x]
+Foods [x]
+Contacts [x]
 
 Search for Food
 Search
