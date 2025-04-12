@@ -30,7 +30,7 @@ img {
 .links {
     display: flex;
     align-items: center;
-    padding-left: 350px;
+    padding-left: 380px;
 }
 h1 {
     text-transform: uppercase;
@@ -40,8 +40,6 @@ h1 {
 a {
     text-decoration: none;
     color: #df0f6e;
-    font-weight: 250;
-    
 }
 ul {
     display: flex;
@@ -50,9 +48,10 @@ ul {
 
 li {
     padding-left: 40px;
+    
 }
 main {
-    width: 1200px;
+    width: 1300px;
     height: 200px;
     background-image: url('/food-menu/img/search_area_bg.jpg');
     margin-left: 40px;

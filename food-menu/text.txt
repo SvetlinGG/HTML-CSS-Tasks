@@ -4,10 +4,10 @@ About [x]
 Foods [x]
 Contacts [x]
 
-Search for Food
-Search
+Search for Food [x]
+Search [x]
 
-Explore Our Foods
+Explore Our Foods [x]
 Green Leafy Dish
 Fish Salad Dish
 Classic Burger
