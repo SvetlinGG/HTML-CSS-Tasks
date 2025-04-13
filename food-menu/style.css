@@ -142,7 +142,7 @@ p {
 
 .food-section {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 600px 600px;
     grid-template-rows: 1fr 1fr 1fr;
    
     column-gap: 10px;
@@ -154,6 +154,8 @@ p {
     grid-template-columns: 1fr;
     background-color: white;
     border-radius: 15px;
+    height: 200px;
+    width: 600px;
 }
 .enjoy {
     font-weight: normal;
